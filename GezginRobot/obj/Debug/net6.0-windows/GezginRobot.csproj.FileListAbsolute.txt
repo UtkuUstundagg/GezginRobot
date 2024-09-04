@@ -1,0 +1,17 @@
+D:\VS-Dosyalarım\GezginRobot\GezginRobot\bin\Debug\net6.0-windows\GezginRobot.exe
+D:\VS-Dosyalarım\GezginRobot\GezginRobot\bin\Debug\net6.0-windows\GezginRobot.deps.json
+D:\VS-Dosyalarım\GezginRobot\GezginRobot\bin\Debug\net6.0-windows\GezginRobot.runtimeconfig.json
+D:\VS-Dosyalarım\GezginRobot\GezginRobot\bin\Debug\net6.0-windows\GezginRobot.dll
+D:\VS-Dosyalarım\GezginRobot\GezginRobot\bin\Debug\net6.0-windows\ref\GezginRobot.dll
+D:\VS-Dosyalarım\GezginRobot\GezginRobot\bin\Debug\net6.0-windows\GezginRobot.pdb
+D:\VS-Dosyalarım\GezginRobot\GezginRobot\obj\Debug\net6.0-windows\GezginRobot.csproj.AssemblyReference.cache
+D:\VS-Dosyalarım\GezginRobot\GezginRobot\obj\Debug\net6.0-windows\GezginRobot.Form1.resources
+D:\VS-Dosyalarım\GezginRobot\GezginRobot\obj\Debug\net6.0-windows\GezginRobot.csproj.GenerateResource.cache
+D:\VS-Dosyalarım\GezginRobot\GezginRobot\obj\Debug\net6.0-windows\GezginRobot.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS-Dosyalarım\GezginRobot\GezginRobot\obj\Debug\net6.0-windows\GezginRobot.AssemblyInfoInputs.cache
+D:\VS-Dosyalarım\GezginRobot\GezginRobot\obj\Debug\net6.0-windows\GezginRobot.AssemblyInfo.cs
+D:\VS-Dosyalarım\GezginRobot\GezginRobot\obj\Debug\net6.0-windows\GezginRobot.csproj.CoreCompileInputs.cache
+D:\VS-Dosyalarım\GezginRobot\GezginRobot\obj\Debug\net6.0-windows\GezginRobot.dll
+D:\VS-Dosyalarım\GezginRobot\GezginRobot\obj\Debug\net6.0-windows\ref\GezginRobot.dll
+D:\VS-Dosyalarım\GezginRobot\GezginRobot\obj\Debug\net6.0-windows\GezginRobot.pdb
+D:\VS-Dosyalarım\GezginRobot\GezginRobot\obj\Debug\net6.0-windows\GezginRobot.genruntimeconfig.cache
